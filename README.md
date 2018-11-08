@@ -13,6 +13,12 @@ Following are two commands that you have to execute in sequence to create produc
 > gulp bundle --ship
 > gupl package-solution --ship
 
+### Notes configuration in SharePoint
+
+As a proof of concept, the list names and columns names are hardcoded. In your SharePoint website you have to create following **Announcements** list. The list should have at least:
+1. Title
+2. Description
+
 ### Building the code
 
 ```bash
