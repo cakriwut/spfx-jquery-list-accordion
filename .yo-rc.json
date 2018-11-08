@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "spfx-jqueryui-accordion",
+    "libraryId": "53d5cb72-cba4-4aaa-90f0-fb2776443398",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

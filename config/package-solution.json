@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-jqueryui-accordion-client-side-solution",
+    "id": "53d5cb72-cba4-4aaa-90f0-fb2776443398",
+    "version": "1.0.0.1",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-jqueryui-accordion.sppkg"
+  }
+}
